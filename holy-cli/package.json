@@ -1,0 +1,32 @@
+
+    {
+      "name": "holy-cli",
+      "version": "1.0.0",
+      "description": "holy的测试脚手架",
+      "main": "index.js",
+      "bin": {
+        "holy-cli": "index.js"
+      },
+      "author": "陈力豪",
+      "license": "ISC",
+      "dependencies": {
+        "chalk": "^2.4.2",
+        "co": "^4.6.0",
+        "co-prompt": "^1.0.0",
+        "commander": "^2.20.0"
+      },
+      "scripts": {
+        "test": "test"
+      },
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/holyday317/holy-cli.git"
+      },
+      "keywords": [
+        "vue-base",
+        "todo-holy1",
+        "todo-holy2"
+      ]
+    }
+    
+    
